@@ -12,6 +12,7 @@
       "size": 67413,
       "sha256": "26de4c8229d6d7bcb95de9361e7debfccc2cfc6d4b9d1ca716cfb9bade29e060",
       "image": "images/library-skybox-fix.png"
+      "targets": "both"
     }
   ]
 }
