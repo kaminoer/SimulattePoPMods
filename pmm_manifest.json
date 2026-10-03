@@ -5,7 +5,7 @@
       "id": "library-skybox-fix",
       "name": "Library skybox fix",
       "description": "Replaces the broken skybox in the library.",
-      "version": "v1.0",
+      "version": "1.0",
       "author": "Simulatte",
       "game": "WW",
       "file": "library_skybox.jtmod",
