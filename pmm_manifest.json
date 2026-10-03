@@ -1,17 +1,103 @@
 {
-  "schema_version": 1,
   "mods": [
     {
-      "id": "library-skybox-fix",
-      "name": "Library Skybox fix",
-      "description": "Replaces the broken skybox in the library.",
-      "version": "1.0",
       "author": "Simulatte",
-      "game": "WW",
+      "description": "Replaces the broken skybox in the library.",
       "file": "library_skybox.jtmod",
-      "size": 67413,
+      "game": "WW",
+      "id": "library-skybox-fix",
+      "image": "images/library-skybox-fix.png",
+      "name": "Library skybox fix",
       "sha256": "26de4c8229d6d7bcb95de9361e7debfccc2cfc6d4b9d1ca716cfb9bade29e060",
-      "image": "images/library-skybox-fix.png"
+      "size": 67413,
+      "targets": "both",
+      "type": "fix",
+      "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Adds the data for the 9 ported PSP Rival Swords bonus maps (Water, Sand, Lava, Vaults, Sanctuaries). Requires the \"Rival Swords\" code patch (Code mods tab) to add engine patches and the main-menu entry that loads these maps.",
+      "file": "Rival Swords bonus maps (PSP port).jtmod",
+      "game": "T2T",
+      "id": "rival-swords-bonus-maps-psp-port",
+      "image": "images/rival-swords-bonus-maps-psp-port.png",
+      "name": "Rival Swords bonus maps (PSP port)",
+      "sha256": "8add8cb63a780d6f8776223a4d225d7965bce54b49c0e98572c328613d9fe96e",
+      "size": 74519280,
+      "targets": "classic",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Adds a true bleeding effect to every sand creature. v2.0 also covers enemies baked directly into level bins (rooftops, minaret, courtyard, towers, caves, and more) that spawn without going through their actor bin, which the first version left dry.",
+      "file": "Sand creatures blood v2.0.jtmod",
+      "game": "T2T",
+      "id": "blood-for-sand-enemies",
+      "image": "images/blood-for-sand-enemies.png",
+      "name": "Blood for sand enemies",
+      "sha256": "6c51a36179097a3b853688b42640917206c3073101e46bf4e46baa5c724cf64b",
+      "size": 196643,
+      "targets": "both",
+      "type": "mod",
+      "version": "2.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Adds the data for the ported Xbox bonus maps: Waterfront Tower and Grotto of Trials to Warrior Within. Requires the \"Xbox DLCs PC port\" code patch (Code mods tab) to add the DLC menu and load these maps.",
+      "file": "Xbox DLC maps (Waterfront + Grotto) v1.0.jtmod",
+      "game": "WW",
+      "id": "xbox-dlc-maps-waterfront-tower-grotto-of-trials",
+      "image": "images/xbox-dlc-maps-waterfront-tower-grotto-of-trials.png",
+      "name": "Xbox DLC maps (Waterfront Tower + Grotto of Trials)",
+      "sha256": "d5a88c3f75ef866c4535b70fb8f383677c86446173c26928a1acccef19521f86",
+      "size": 46076971,
+      "targets": "classic",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Replaces Prince with the Disciple.",
+      "file": "disciple-skin.jtmod",
+      "game": "WW",
+      "id": "disciple-skin-for-the-prince",
+      "image": "images/disciple-skin-for-the-prince.png",
+      "name": "Disciple skin for the Prince",
+      "sha256": "18a4786bbb4df4b7ef71b5c5c8cc297134aa1611e961d44546648383445cb316",
+      "size": 3328601,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Replaces the Prince with Spider-Man. Model: \"Spiderman Brand New Day\" (https://skfb.ly/pMvYH) by mpolo0604 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).",
+      "file": "prince_spider-manv1.0.jtmod",
+      "game": "WW",
+      "id": "spider-man-as-the-prince",
+      "image": "images/spider-man-as-the-prince.png",
+      "name": "Spider-Man as the Prince",
+      "sha256": "ff41001ff0bef4fa2623b19a3b8409885c31ed6c5637ece881c823905797339d",
+      "size": 47075117,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Restores Prince's teeth to how they looked in the demo.",
+      "file": "teeth_fix.jtmod",
+      "game": "WW",
+      "id": "prince-teeth-fix",
+      "image": "images/prince-teeth-fix.png",
+      "name": "Prince teeth fix",
+      "sha256": "2ffdc27aa08d5f8bb046a4de6b2da6e4930e92b5067dffb677a6391ad27d2b2a",
+      "size": 70776,
+      "targets": "both",
+      "type": "fix",
+      "version": "1.0"
     }
-  ]
+  ],
+  "schema_version": 1
 }
