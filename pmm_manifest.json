@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "mods": [
+    {
+      "id": "library-skybox-fix",
+      "name": "Library Skybox fix",
+      "description": "Replaces the broken skybox in the library.",
+      "version": "1.0",
+      "author": "Simulatte",
+      "game": "WW",
+      "file": "library_skybox.jtmod",
+      "size": 67413,
+      "sha256": "26de4c8229d6d7bcb95de9361e7debfccc2cfc6d4b9d1ca716cfb9bade29e060",
+      "image": "images/library-skybox-fix.png"
+    }
+  ]
+}
