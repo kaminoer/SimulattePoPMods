@@ -100,17 +100,17 @@
     },
     {
       "author": "Simulatte",
-      "description": "Relocates the springboard in the Tower to make the Prince connect with the dagger plate after the jump.",
+      "description": "Relocates the problematic springboard in the Tower to make the Prince's jump reach the dagger plate.",
       "file": "springboard.jtmod",
       "game": "T2T",
       "id": "tower-springboard-fix",
       "image": "images/tower-springboard-fix.png",
       "name": "Tower Springboard Fix",
-      "sha256": "42e810dab7f0c9af95579e2d3aa24dae487d901faa567b1ba0a270e50294b16c",
-      "size": 34579,
+      "sha256": "c20d1e74ea554e7755e946787c2d15b89d15b285db4b2c62c697424be35277c9",
+      "size": 34578,
       "targets": "both",
       "type": "fix",
-      "version": "2.0"
+      "version": "3.0"
     }
   ],
   "schema_version": 1
