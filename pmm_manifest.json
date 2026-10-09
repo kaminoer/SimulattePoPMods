@@ -111,6 +111,34 @@
       "targets": "both",
       "type": "fix",
       "version": "3.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Fixes the Prince being offset to the side of the enemy during the weapon steal finisher. Relocates the problematic springboard in the Tower to make the Prince's jump reach the dagger plate.",
+      "file": "The Two Thrones Essential Fixes.jtmod",
+      "game": "T2T",
+      "id": "the-two-thrones-essential-fixes",
+      "image": "images/the-two-thrones-essential-fixes.png",
+      "name": "The Two Thrones Essential Fixes",
+      "sha256": "4658868ca70fff6674dc32cfc2559743d3334ef14255c3d2adf111904b1244b8",
+      "size": 47867,
+      "targets": "openjade",
+      "type": "fix",
+      "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Fixes the missing audio in the \"A helping hand\" hourglass chamber cutscene and crowmaster's crow flight animation. Replaces the broken skybox in the library. Restores Prince's teeth to how they looked in the demo.",
+      "file": "Warrior Within Essential Fixes.jtmod",
+      "game": "WW",
+      "id": "warrior-within-essential-fixes",
+      "image": "images/warrior-within-essential-fixes.png",
+      "name": "Warrior Within Essential Fixes",
+      "sha256": "51dbbc79ae7677097c858c83bab646cc1fb7c9b08c617e9dcc5a643e27fe0a70",
+      "size": 81898,
+      "targets": "openjade",
+      "type": "fix",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
