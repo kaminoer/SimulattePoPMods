@@ -114,17 +114,17 @@
     },
     {
       "author": "Simulatte",
-      "description": "Fixes the Prince being offset to the side of the enemy during the weapon steal finisher. Relocates the problematic springboard in the Tower to make the Prince's jump reach the dagger plate. Fixes flickering fire/smoke FX, disappearing objects, floating debris, and the backdrop plane being drawn over FX in the intro areas. Fixes black lines on the backdrop.",
+      "description": "Fixes the Prince being offset to the side of the enemy during the weapon steal finisher. Relocates the problematic springboard in the Tower to make the Prince's jump reach the dagger plate. Fixes flickering fire/smoke FX, disappearing objects, floating debris, and the backdrop plane being drawn over FX, and black lines on the backdrop in the intro areas. Fixes alpha for the fence on the roof.",
       "file": "The Two Thrones Essential Fixes.jtmod",
       "game": "T2T",
       "id": "the-two-thrones-essential-fixes",
       "image": "images/the-two-thrones-essential-fixes.png",
       "name": "The Two Thrones Essential Fixes",
-      "sha256": "1a522defd4bd26dc3fcc366c6224a84caaf19ff213764db519c27abed8057569",
-      "size": 111042,
+      "sha256": "e4d03e6b7503529ba1308794f22597d96ab42f0a8c820d62a3296e9270038464",
+      "size": 114606,
       "targets": "openjade",
       "type": "fix",
-      "version": "2.1"
+      "version": "2.2"
     },
     {
       "author": "Simulatte",
