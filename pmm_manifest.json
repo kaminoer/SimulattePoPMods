@@ -139,6 +139,20 @@
       "targets": "openjade",
       "type": "fix",
       "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Fixes broken UVs in the Final Shape Prince model.",
+      "file": "final_shape_UV_fix.jtmod",
+      "game": "T2T",
+      "id": "prince-bare-uvs-fix",
+      "image": "images/prince-bare-uvs-fix.png",
+      "name": "Prince Bare UVs fix",
+      "sha256": "73ac66fa5bebe6906a93ab655f6d87451b483bc370fe504babe2f67b3dff35e1",
+      "size": 117405,
+      "targets": "both",
+      "type": "fix",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
