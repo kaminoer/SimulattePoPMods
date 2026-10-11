@@ -164,7 +164,7 @@
       "name": "High Resolution Final Dark Prince",
       "sha256": "ff38b1458f2fc43dbacecc5d088f3b6f81a27b2985ffe61efb00fad0c0a78232",
       "size": 109751,
-      "targets": "both",
+      "targets": "openjade",
       "type": "mod",
       "version": "1.2"
     }
