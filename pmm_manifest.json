@@ -128,17 +128,17 @@
     },
     {
       "author": "Simulatte",
-      "description": "Fixes the missing audio in the \"A helping hand\" hourglass chamber cutscene and crowmaster's crow flight animation. Replaces the broken skybox in the library. Restores Prince's teeth to how they looked in the demo.",
+      "description": "Fixes the missing audio in the \"A helping hand\" hourglass chamber cutscene and crowmaster's crow flight animation. Replaces the broken skybox in the library. Restores Prince's teeth to how they looked in the demo. Fixes prison levers backface culling.",
       "file": "Warrior Within Essential Fixes.jtmod",
       "game": "WW",
       "id": "warrior-within-essential-fixes",
       "image": "images/warrior-within-essential-fixes.png",
       "name": "Warrior Within Essential Fixes",
-      "sha256": "51dbbc79ae7677097c858c83bab646cc1fb7c9b08c617e9dcc5a643e27fe0a70",
-      "size": 81898,
+      "sha256": "b820bfef24870905d9bf84b654028fad2afd266fe7713223bd78837aa2d54f78",
+      "size": 86940,
       "targets": "openjade",
       "type": "fix",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "author": "Simulatte",
@@ -153,6 +153,20 @@
       "targets": "both",
       "type": "fix",
       "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Replaces the low quality Dark Prince model in the final stage of the Mental Realm with the full quality model.",
+      "file": "T2T High Resolution Final Dark Prince v1.2.jtmod",
+      "game": "T2T",
+      "id": "high-resolution-final-dark-prince",
+      "image": "images/high-resolution-final-dark-prince.png",
+      "name": "High Resolution Final Dark Prince",
+      "sha256": "ff38b1458f2fc43dbacecc5d088f3b6f81a27b2985ffe61efb00fad0c0a78232",
+      "size": 109751,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.2"
     }
   ],
   "schema_version": 1
