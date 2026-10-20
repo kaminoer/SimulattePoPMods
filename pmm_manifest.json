@@ -167,6 +167,20 @@
       "targets": "openjade",
       "type": "mod",
       "version": "1.2"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Restores the chain physics and Prince animations that were cut in the final release.",
+      "file": "RestoreT2TBetaChainPhysics-1.0.jtmod",
+      "game": "T2T",
+      "id": "restore-t2t-beta-chain-physics",
+      "image": "images/restore-t2t-beta-chain-physics.png",
+      "name": "Restore T2T beta chain physics",
+      "sha256": "e2c269701a277b604125780894b807054dc5af6854e7598c77c4b5245f182634",
+      "size": 261478,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
