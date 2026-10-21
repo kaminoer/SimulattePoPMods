@@ -181,6 +181,20 @@
       "targets": "openjade",
       "type": "mod",
       "version": "1.0"
+    },
+    {
+      "author": "Alvara",
+      "description": "A CGI-inspired Sandwraith model and textures directly based on Prince of Persia: Warrior Within.",
+      "file": "true_sandwraith.jtmod",
+      "game": "WW",
+      "id": "cgi-inspired-sandwraith-appearance-true-sandwraith",
+      "image": "images/cgi-inspired-sandwraith-appearance-true-sandwraith.png",
+      "name": "CGI inspired Sandwraith appearance (True Sandwraith)",
+      "sha256": "740bce8ef0307362679cd4beba03c00947ba2a6add5bdfeaf5f1fa27e82fe4d1",
+      "size": 33197815,
+      "targets": "both",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
