@@ -223,6 +223,20 @@
       "targets": "openjade",
       "type": "mod",
       "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Restores dismemberment for human and sand enemy executions.",
+      "file": "RestoreEnemyDismemberment-1.0.jtmod",
+      "game": "T2T",
+      "id": "restore-enemy-dismemberment",
+      "image": "images/restore-enemy-dismemberment.png",
+      "name": "Restore enemy dismemberment",
+      "sha256": "890b861c928e9fe23eda7a17f172fff4f1d3cbebf7c4e672ae45109b580c5434",
+      "size": 46921,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
