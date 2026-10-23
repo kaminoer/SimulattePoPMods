@@ -195,6 +195,34 @@
       "targets": "both",
       "type": "mod",
       "version": "1.0"
+    },
+    {
+      "author": "Simulatte and dekamaru",
+      "description": "Adds the PSP PoP Revelations game mode.",
+      "file": "Revelations-1.0.jtmod",
+      "game": "WW",
+      "id": "prince-of-persia-revelations",
+      "image": "images/prince-of-persia-revelations.png",
+      "name": "Prince of Persia: Revelations",
+      "sha256": "315a5cb8d4fc8712f4894496b3f9db4ede87a53fc176840925e380807da11483",
+      "size": 69068184,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
+    },
+    {
+      "author": "Simulatte and dekamaru",
+      "description": "Adds the PSP PoP Rival Swords game mode.",
+      "file": "RivalSwords-1.0.jtmod",
+      "game": "T2T",
+      "id": "prince-of-persia-rival-swords",
+      "image": "images/prince-of-persia-rival-swords.png",
+      "name": "Prince of Persia: Rival Swords",
+      "sha256": "b281613dac071d111d1e45c5615c87d6f32f3c466a48f94186f3449044529c47",
+      "size": 51286152,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
