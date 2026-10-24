@@ -199,16 +199,16 @@
     {
       "author": "Simulatte and dekamaru",
       "description": "Adds the PSP PoP Revelations game mode.",
-      "file": "Revelations-1.3.jtmod",
+      "file": "Revelations-1.4.jtmod",
       "game": "WW",
       "id": "prince-of-persia-revelations",
       "image": "images/prince-of-persia-revelations.png",
       "name": "Prince of Persia: Revelations",
-      "sha256": "01961c55572438ce4175c03fa99ad2ab99f2dc2b958c1a12578412a3278ecce5",
-      "size": 75022559,
+      "sha256": "1d001c2f8bd662763818359677067e9716b4e6b9d491375d02c502874d33d5ad",
+      "size": 75003056,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.3"
+      "version": "1.4"
     },
     {
       "author": "Simulatte and dekamaru",
