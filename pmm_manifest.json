@@ -199,16 +199,16 @@
     {
       "author": "Simulatte and dekamaru",
       "description": "Adds the PSP PoP Rival Swords game mode.",
-      "file": "RivalSwords-1.1.jtmod",
+      "file": "RivalSwords-1.2.jtmod",
       "game": "T2T",
       "id": "prince-of-persia-rival-swords",
       "image": "images/prince-of-persia-rival-swords.png",
       "name": "Prince of Persia: Rival Swords",
-      "sha256": "c2c47e79f80bbfe0c3c83cd92c8754611982e826bdd14e6c3331dcdb6428117f",
-      "size": 51286278,
+      "sha256": "ac31121a45d1c74ba34e7d359abb91b1a31f3558fb9a5ffffa3e87c796513362",
+      "size": 51286311,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.1"
+      "version": "1.2"
     },
     {
       "author": "Simulatte",
