@@ -251,6 +251,20 @@
       "targets": "openjade",
       "type": "mod",
       "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Restores the camera following a thrown weapon.",
+      "file": "Weapon throw camera.jtmod",
+      "game": "T2T",
+      "id": "weapon-throw-camera",
+      "image": "images/weapon-throw-camera.png",
+      "name": "Weapon throw camera",
+      "sha256": "533c0cabb195dc7498db3a2d7bd0744a4afbba78d5860181a94cc5654fbd3f53",
+      "size": 50950,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
