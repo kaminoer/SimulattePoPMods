@@ -237,6 +237,20 @@
       "targets": "openjade",
       "type": "mod",
       "version": "2.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Restores WW strafing in combat in T2T.",
+      "file": "T2T_strafing.jtmod",
+      "game": "T2T",
+      "id": "strafing-in-combat",
+      "image": "images/strafing-in-combat.png",
+      "name": "Strafing in combat",
+      "sha256": "06199b95597fa270793a58cc4745dedf61003fd8f66f8db85faa2f0aa1487009",
+      "size": 46463,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
