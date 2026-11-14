@@ -265,6 +265,20 @@
       "targets": "openjade",
       "type": "mod",
       "version": "1.0"
+    },
+    {
+      "author": "Simulatte, dekamaru",
+      "description": "Fixes column climbing collision at high FPS.",
+      "file": "Sands of Time Essential Fixes.jtmod",
+      "game": "SoT",
+      "id": "sands-of-time-essential-fixes",
+      "image": "images/sands-of-time-essential-fixes.png",
+      "name": "Sands of Time Essential Fixes",
+      "sha256": "61d5f035427533d5d4889b2d1cd07de3828d4f1df47ac3ef65cd7f7688ae62ff",
+      "size": 40025,
+      "targets": "openjade",
+      "type": "fix",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
