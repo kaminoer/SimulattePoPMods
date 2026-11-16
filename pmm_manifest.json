@@ -279,6 +279,20 @@
       "targets": "openjade",
       "type": "fix",
       "version": "1.0"
+    },
+    {
+      "author": "Simulatte",
+      "description": "An endless battle mod on a custom map loosely based on one of the cinematic trailers.",
+      "file": "endless_battle.jtmod",
+      "game": "WW",
+      "id": "endless-battle",
+      "image": "images/endless-battle.png",
+      "name": "Endless Battle",
+      "sha256": "137203b2cd73aca47dc1bb15dc64dc635d660d6d2e6a44a51960645691241853",
+      "size": 68912523,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
