@@ -288,11 +288,25 @@
       "id": "endless-battle",
       "image": "images/endless-battle.png",
       "name": "Endless Battle",
-      "sha256": "137203b2cd73aca47dc1bb15dc64dc635d660d6d2e6a44a51960645691241853",
-      "size": 68912523,
+      "sha256": "eb1d3ffe2b1a0bc70c6885513676479a231e0152133be709f090b99ed04f0028",
+      "size": 68937199,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.0"
+      "version": "1.1"
+    },
+    {
+      "author": "Simulatte",
+      "description": "An endless battle mod on a custom map loosely based on one of the cinematic trailers. This version removes the battle crowd to help with performance.",
+      "file": "endless_battle_perf.jtmod",
+      "game": "WW",
+      "id": "endless-battle-performance",
+      "image": "images/endless-battle-performance.png",
+      "name": "Endless Battle (performance)",
+      "sha256": "b642909437061c38c4d5ff84544e4690ad672620628aaff01f35cb7ee4e63f8d",
+      "size": 67203775,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.1"
     }
   ],
   "schema_version": 1
