@@ -288,11 +288,11 @@
       "id": "endless-battle",
       "image": "images/endless-battle.png",
       "name": "Endless Battle",
-      "sha256": "3ba3346834b6b9d862da445a38d1e2019d11755091ff060e5fd63dc6bbc37a33",
-      "size": 72438916,
+      "sha256": "bd69ec6f686161e06e9905a624b862d5a5e66a0025bf716643cce62564f4f839",
+      "size": 72458454,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.5"
+      "version": "1.6"
     },
     {
       "author": "Simulatte",
@@ -302,11 +302,11 @@
       "id": "endless-battle-performance",
       "image": "images/endless-battle-performance.png",
       "name": "Endless Battle (performance)",
-      "sha256": "603dbecfb9f0f10f98f30fdba76bcd2a7e7ae15a98875214488835db0d5239a5",
-      "size": 70763886,
+      "sha256": "468ee95c553fdd803261da5ca0e37a2bb7e84811509cc6edd4cc6bc40546b001",
+      "size": 70735281,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.5"
+      "version": "1.6"
     }
   ],
   "schema_version": 1
