@@ -302,11 +302,11 @@
       "id": "endless-battle-performance",
       "image": "images/endless-battle-performance.png",
       "name": "Endless Battle (performance)",
-      "sha256": "46ada6232b44d5845f69d42847da6b0a67fa7803449f0631a6aae343d3394933",
-      "size": 70706155,
+      "sha256": "603dbecfb9f0f10f98f30fdba76bcd2a7e7ae15a98875214488835db0d5239a5",
+      "size": 70763886,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.4"
+      "version": "1.5"
     }
   ],
   "schema_version": 1
