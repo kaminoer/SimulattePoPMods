@@ -288,11 +288,11 @@
       "id": "endless-battle",
       "image": "images/endless-battle.png",
       "name": "Endless Battle",
-      "sha256": "c16b8046f6aeb01ef6d430d169e5a15c22c7dc68df24d2a6a83c6ec2ab118651",
-      "size": 72379683,
+      "sha256": "3ba3346834b6b9d862da445a38d1e2019d11755091ff060e5fd63dc6bbc37a33",
+      "size": 72438916,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.4"
+      "version": "1.5"
     },
     {
       "author": "Simulatte",
