@@ -282,31 +282,31 @@
     },
     {
       "author": "Simulatte",
-      "description": "An endless battle mod on a custom map loosely based on one of the cinematic trailers. To load the map, enable the dev console in OpenJade, press ~, run list_checkpoints and load the BATTLEFIELD checkpoint.",
+      "description": "An endless battle mod on a custom map loosely based on one of the cinematic trailers.",
       "file": "endless_battle.jtmod",
       "game": "WW",
       "id": "endless-battle",
       "image": "images/endless-battle.png",
       "name": "Endless Battle",
-      "sha256": "bd69ec6f686161e06e9905a624b862d5a5e66a0025bf716643cce62564f4f839",
-      "size": 72458454,
+      "sha256": "dd67216c7f2885b897293a2124f9101ca8e9bf50fbbb97c0b685cac8f19e2604",
+      "size": 72487441,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.6"
+      "version": "1.7"
     },
     {
       "author": "Simulatte",
-      "description": "An endless battle mod on a custom map loosely based on one of the cinematic trailers. This version removes the battle crowd to help with performance. To load the map, enable the dev console in OpenJade, press ~, run list_checkpoints and load the BATTLEFIELD checkpoint.",
+      "description": "An endless battle mod on a custom map loosely based on one of the cinematic trailers. This version removes the battle crowd to help with performance.",
       "file": "endless_battle_perf.jtmod",
       "game": "WW",
       "id": "endless-battle-performance",
       "image": "images/endless-battle-performance.png",
       "name": "Endless Battle (performance)",
-      "sha256": "468ee95c553fdd803261da5ca0e37a2bb7e84811509cc6edd4cc6bc40546b001",
-      "size": 70735281,
+      "sha256": "6e8735552fcfb4bee82fe9a95759ebed82312eff1703c3693f63fdb7cebda25c",
+      "size": 70764268,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.6"
+      "version": "1.7"
     }
   ],
   "schema_version": 1
