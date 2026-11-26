@@ -307,6 +307,20 @@
       "targets": "openjade",
       "type": "mod",
       "version": "1.9"
+    },
+    {
+      "author": "Simulatte",
+      "description": "Adds a custom boss fight against the Dark Prince to the final level of the game. It includes unused voice lines, completely new mechanics, animations, and assets.",
+      "file": "dark_prince_duel.jtmod",
+      "game": "T2T",
+      "id": "dark-prince-duel",
+      "image": "images/dark-prince-duel.png",
+      "name": "Dark Prince Duel",
+      "sha256": "84475d5e527d19aa21664f768926828a7f6c2c661db01fcbe0a2f1b361ff913e",
+      "size": 13046656,
+      "targets": "openjade",
+      "type": "mod",
+      "version": "1.0"
     }
   ],
   "schema_version": 1
