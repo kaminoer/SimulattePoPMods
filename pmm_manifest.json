@@ -316,11 +316,11 @@
       "id": "dark-prince-duel",
       "image": "images/dark-prince-duel.png",
       "name": "Dark Prince Duel",
-      "sha256": "84475d5e527d19aa21664f768926828a7f6c2c661db01fcbe0a2f1b361ff913e",
-      "size": 13046656,
+      "sha256": "71e97e595694ca36d3f0f8675ddd96ac5cf18a057726b556c0c68179599b68d7",
+      "size": 12504634,
       "targets": "openjade",
       "type": "mod",
-      "version": "1.0"
+      "version": "1.1"
     }
   ],
   "schema_version": 1
